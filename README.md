@@ -94,8 +94,6 @@ Returns the positive square root of a number.
 Returns the tangent of a number.
 #### tanh(x)
 Returns the hyperbolic tangent of a number.
-#### toSource() 
-Returns the string "Math".
 #### trunc(x)
 Returns the integer part of the number x, removing any fractional digits.
 
